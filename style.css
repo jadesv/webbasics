@@ -1,0 +1,21 @@
+body {background-color: rgb(251, 249, 249);
+         height: 100%
+    }
+        #header, footer {width: 100%; text-align: center; border-radius: 5px;}
+        #header, footer {background:rgb(245, 6, 149); color:black; border-bottom:5px solid rgb(11, 11, 11);}
+        footer {padding-top: 5px; clear:left; border-radius:5px; position: sticky} 
+
+        #leftnav,#centerbody {margin:10px; float:left}
+        #leftnav {padding-left:10px; border:2px outset rgb(8, 0, 0); width:20%; height:180px;}
+        #centerbody {text-align: center; width:70%; padding-bottom: 300px}
+        
+.about {
+  width: 50%; height: 50%
+}
+.masks {
+  width: 33%; height: 33%; 
+}
+.backgroundimage {background-image: url("images/scarfmask.jpg");
+}
+.centertitle {color: rgb(245, 6, 149); font-size: 36; text-align: center;
+}
