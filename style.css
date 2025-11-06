@@ -17,5 +17,5 @@ body {background-color: rgb(251, 249, 249);
 }
 .backgroundimage {background-image: url("scarfmask.jpg");
 }
-.centertitle {color: rgb(245, 6, 149); font-size: 36px; text-align: center;
+.centertitle {color: rgb(245, 6, 149); font-size: 36; text-align: center;
 }
