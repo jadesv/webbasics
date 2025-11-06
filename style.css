@@ -9,6 +9,16 @@ body {background-color: rgb(251, 249, 249);
         #leftnav {padding-left:10px; border:2px outset rgb(8, 0, 0); width:20%; height:180px;}
         #centerbody {text-align: center; width:70%; padding-bottom: 300px}
         
+table { 
+  border-collapse: collapse; padding-top: 50px; padding-bottom: 75px;  width: 30%;
+  margin: auto; text-align: center;
+}
+th, td {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  padding: 20px;
+}
+
 .about {
   width: 50%; height: 50%
 }
